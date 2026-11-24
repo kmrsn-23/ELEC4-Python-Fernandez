@@ -20,5 +20,10 @@ P4: python set1/p4/p4_exceptions.py
 
 ## Screenshots
 
-Screenshots of the programs will be added
-after completing each activity.
+### P1 – Student Grade Calculator
+
+The screenshot below shows the student's average,
+highest grade, lowest grade, and pass/fail status.
+
+![P1 Grade Calculator Results](set1/p1/screenshots/p1_results.png)
+
